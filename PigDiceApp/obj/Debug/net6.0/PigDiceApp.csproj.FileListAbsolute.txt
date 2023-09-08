@@ -1,0 +1,14 @@
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\bin\Debug\net6.0\PigDiceApp.exe
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\bin\Debug\net6.0\PigDiceApp.deps.json
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\bin\Debug\net6.0\PigDiceApp.runtimeconfig.json
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\bin\Debug\net6.0\PigDiceApp.dll
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\bin\Debug\net6.0\PigDiceApp.pdb
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.AssemblyInfo.cs
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.dll
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\refint\PigDiceApp.dll
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.pdb
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\PigDiceApp.genruntimeconfig.cache
+C:\Users\antho\source\repos\PigDiceApp\PigDiceApp\obj\Debug\net6.0\ref\PigDiceApp.dll
